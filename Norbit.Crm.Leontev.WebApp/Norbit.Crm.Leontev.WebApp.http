@@ -1,0 +1,6 @@
+@Norbit.Crm.Leontev.WebApp_HostAddress = http://localhost:5226
+
+GET {{Norbit.Crm.Leontev.WebApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
